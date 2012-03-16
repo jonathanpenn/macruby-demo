@@ -159,7 +159,7 @@
 		AB08A3731486D91B002C69F3 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0420;
+				LastUpgradeCheck = 0430;
 				ORGANIZATIONNAME = "Navel Labs";
 			};
 			buildConfigurationList = AB08A3761486D91B002C69F3 /* Build configuration list for PBXProject "LocationLocationLocation" */;
@@ -334,6 +334,7 @@
 				AB08A39B1486D91C002C69F3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AB08A39C1486D91C002C69F3 /* Build configuration list for PBXLegacyTarget "Deployment" */ = {
 			isa = XCConfigurationList;
@@ -342,6 +343,7 @@
 				AB08A39E1486D91C002C69F3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
